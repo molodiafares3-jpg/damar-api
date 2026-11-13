@@ -8,14 +8,14 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212680697262;
+global.pairingNumber = 213792636980;
 global.owner = [
-  ['212603415919', 'DAMAR-MD', true],
+  ['213676893013', '-MD', true],
   ['', 'Owner 2', true],
 ];
 
 global.namebot = 'بوت';
-global.author = 'DAMAR-MD';
+global.author = 'Fares Lkpuchi';
 global.source = 'https://www.facebook.com/profile.php?id=61591783185803';
 
 global.wait = 'Loading... | جاري الانتظار';
